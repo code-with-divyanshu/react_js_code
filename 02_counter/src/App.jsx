@@ -12,9 +12,14 @@ function App() {
 
   const addValue = () => {
     // counter = counter + 1;
-    if (counter < 20) {
-      setCounter(counter + 1); // only update ui state not value of variable
-      console.log("Value Added", counter + 1);
+    if (counter < 21) {
+      // setCounter(counter + 1); // only update ui state not value of variable
+      // interview question // how to update prevCounter
+
+      setCounter((prevCounter) => prevCounter + 1);
+      setCounter((prevCounter) => prevCounter + 1);
+      setCounter((prevCounter) => prevCounter + 1);
+      setCounter((prevCounter) => prevCounter + 1);
     }
   };
 
@@ -22,7 +27,6 @@ function App() {
     // counter = counter - 1;
     if (counter > 0) {
       setCounter(counter - 1);
-      console.log("Value Removed", counter - 1);
     }
   };
 

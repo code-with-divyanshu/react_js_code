@@ -15,3 +15,4 @@ use any name in the place of counter, setCounter
 1- I learn how to how to update values in Ui and change state of Ui.<br/>
 2- I understand the how react Hook (useState()) works.<br/>
 3- I learn how react do updation on ui automaticaly using useState hooks in whole page.<br/>
+4- Learn how to update prev value in ui using useState() hook.
