@@ -6,7 +6,7 @@
 function App() {
   return (
     <>
-      <div className="w-full max-w-md  max-w-sm mx-auto shadow-md rounded-lg px-4 py-3 my-8 bg-gray-800 text-orange-600">
+      <div className="w-full  max-w-sm mx-auto shadow-md rounded-lg px-4 py-3 my-8 bg-gray-800 text-orange-600">
         <h1 className="text-4xl text-center text-white my-4">
           Password Generator
         </h1>
