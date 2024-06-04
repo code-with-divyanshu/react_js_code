@@ -1,8 +1,9 @@
-# React + Vite
+# React Project - Background Color Changer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Make a background color changer app using react , tailwind css and useState() hook.
 
-Currently, two official plugins are available:
+## Learn and tool used:-
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1- Learn How to use useState() hooks to change color values.<br/>
+2- Learn how to use tailwind css in react app.<br/>
+3- Learn about react hooks and how to use it.<br/>
