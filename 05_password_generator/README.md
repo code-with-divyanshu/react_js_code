@@ -14,7 +14,7 @@
 
     const ref = useRef(initialValue)
 
-Learn more from React Hooks[https://react.dev/reference/react/hooks].
+Learn more from React Hooks[(https://react.dev/reference/react/hooks)].
 
 ## Learn
 
