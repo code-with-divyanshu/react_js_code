@@ -4,6 +4,8 @@
 
     npm install @reduxjs/toolkit
 
+### If you need React bindings:
+
     npm install react-redux
 
 ## What's Included
