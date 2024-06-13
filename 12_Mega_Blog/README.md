@@ -38,4 +38,4 @@
 
 ### Like this
 
-    appwriteUrl: String(import.meta.env.VITE_APPWRITE_URL),
+    appwriteUrl: String(import.meta.env.VITE_APPWRITE_URL)
