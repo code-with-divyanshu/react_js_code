@@ -39,3 +39,9 @@
 ### Like this
 
     appwriteUrl: String(import.meta.env.VITE_APPWRITE_URL)
+
+## Learn Day 2-
+
+1-Make a authentication file, auth creataccount, login, getCurrentUser & logout.
+
+2-Future proof code for authentication add more services and use this file future appwrite backend as a service.
