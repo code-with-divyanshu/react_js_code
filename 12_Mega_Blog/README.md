@@ -45,3 +45,9 @@
 1-Make a authentication file, auth creataccount, login, getCurrentUser & logout.
 
 2-Future proof code for authentication add more services and use this file future appwrite backend as a service.
+
+### Learn Day-3
+
+1-Make a config file to config Appwrite database, file upload and custom queries.
+
+2-Make a functionality on createPost, updatePost, deletePost, getPost(get one post), getPosts, uploadFile, delete file etc.
