@@ -46,8 +46,18 @@
 
 2-Future proof code for authentication add more services and use this file future appwrite backend as a service.
 
-### Learn Day-3
+## Learn Day-3
 
 1-Make a config file to config Appwrite database, file upload and custom queries.
 
 2-Make a functionality on createPost, updatePost, deletePost, getPost(get one post), getPosts, uploadFile, delete file etc.
+
+## Learn Day-4
+
+1-Setting up a store using Redux toolkit in a big project.
+
+2-Creating and configuring redux store and authentication slice.
+
+3-Configuring Redux Toolkit for managing state and actions in big projects.
+
+4-Configuring tailwind css and organizing components in big projects.
