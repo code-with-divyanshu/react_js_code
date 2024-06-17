@@ -61,3 +61,11 @@
 3-Configuring Redux Toolkit for managing state and actions in big projects.
 
 4-Configuring tailwind css and organizing components in big projects.
+
+## Learn Day-5
+
+1-Create separate component every field, Updating React components gradually & Importing components in React using index file.
+
+2-Creating objects and adding values to them is a common syntax in production-grade React components, Create a navigation bar with a logo, Adding navigation with React Router.
+
+3-React components can be referred to as children or text, Creating production grade React components & Creating unique IDs for accessibility purpose.
