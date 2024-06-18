@@ -69,3 +69,9 @@
 2-Creating objects and adding values to them is a common syntax in production-grade React components, Create a navigation bar with a logo, Adding navigation with React Router.
 
 3-React components can be referred to as children or text, Creating production grade React components & Creating unique IDs for accessibility purpose.
+
+## Learn Day-6
+
+1-Create separate component like select, signup, postcard, login, authlayout, Updating React components gradually & Importing components in React using index file.
+
+2-Intoduction of react hook form and learn how to use it in react app how to use handleSubmit and register methods.
