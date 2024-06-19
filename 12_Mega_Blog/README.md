@@ -81,3 +81,5 @@
 1-Create RTE commponent using react and tinymce-react npm package for a text-editor and add value to a form.
 
 2-Create PostForm component which is about how to handle post-form data it's very commplicated and very imp topic.
+
+3-Create form to get slug to every user based on there post title.
