@@ -75,3 +75,9 @@
 1-Create separate component like select, signup, postcard, login, authlayout, Updating React components gradually & Importing components in React using index file.
 
 2-Intoduction of react hook form and learn how to use it in react app how to use handleSubmit and register methods.
+
+## Learn Day-7
+
+1-Create RTE commponent using react and tinymce-react npm package for a text-editor and add value to a form.
+
+2-Create PostForm component which is about how to handle post-form data it's very commplicated and very imp topic.
