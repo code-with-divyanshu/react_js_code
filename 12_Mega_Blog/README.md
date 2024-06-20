@@ -83,3 +83,9 @@
 2-Create PostForm component which is about how to handle post-form data it's very commplicated and very imp topic.
 
 3-Create form to get slug to every user based on there post title.
+
+## Learn Day-8
+
+1-Create a pages for user interface and a view a frontend and on web page.
+
+2-Debug some bugs and fix them.
