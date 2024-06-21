@@ -89,3 +89,7 @@
 1-Create a pages for user interface and a view a frontend and on web page.
 
 2-Debug some bugs and fix them.
+
+## Learn Day-9
+
+1-Fix sum bugs and debug whole project setp by setp.
