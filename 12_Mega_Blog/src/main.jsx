@@ -7,11 +7,11 @@ import store from "./store/store.js";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import { AuthLayout, Login } from "./components/index.js";
-import SignUp from "./pages/Signup.jsx";
-import AllPosts from "./pages/AllPosts.jsx";
-import AddPost from "./pages/AddPost.jsx";
-import EditPost from "./pages/EditPost.jsx";
-import Post from "./pages/Post.jsx";
+import SignUp from "./pages/Signup";
+import AllPosts from "./pages/AllPosts";
+import AddPost from "./pages/AddPost";
+import EditPost from "./pages/EditPost";
+import Post from "./pages/Post";
 
 const router = createBrowserRouter([
   {
@@ -30,14 +30,7 @@ const router = createBrowserRouter([
           </AuthLayout>
         ),
       },
-      {
-        path: "/login",
-        element: (
-          <AuthLayout authentication={false}>
-            <Login />
-          </AuthLayout>
-        ),
-      },
+
       {
         path: "/signup",
         element: (
