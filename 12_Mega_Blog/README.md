@@ -93,3 +93,11 @@
 ## Learn Day-9
 
 1-Fix sum bugs and debug whole project setp by setp.
+
+2-Add some features on it.
+
+## Learn Day-10
+
+1-Complete project and change css and make user friendly and responsive.
+
+2-Make a new repo for this project and deploy it on versel and netlify.
